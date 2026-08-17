@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0001-two-sum) |
 | [1563-stone-game-v](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1563-stone-game-v) |
 ## Math
 |  |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1563-stone-game-v) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
