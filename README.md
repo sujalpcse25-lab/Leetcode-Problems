@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0164-maximum-gap](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [1563-stone-game-v](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1563-stone-game-v) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0037-sudoku-solver) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Linked List
 |  |
 | ------- |
