@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0164-maximum-gap](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0164-maximum-gap) |
+| [1386-cinema-seat-allocation](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1563-stone-game-v) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0037-sudoku-solver) |
+| [1386-cinema-seat-allocation](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Linked List
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [1386-cinema-seat-allocation](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 ## Trie
 |  |
 | ------- |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
