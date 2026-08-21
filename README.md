@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1563-stone-game-v) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [1563-stone-game-v](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1563-stone-game-v) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -149,8 +152,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
