@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0037-sudoku-solver) |
+| [0066-plus-one](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0164-maximum-gap](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [1386-cinema-seat-allocation](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1563-stone-game-v) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0066-plus-one) |
 | [1563-stone-game-v](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1927-sum-game) |
