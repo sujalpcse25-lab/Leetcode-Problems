@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [4024-nearest-available-drone](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/4024-nearest-available-drone) |
 ## Math
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [1386-cinema-seat-allocation](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
