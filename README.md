@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [1927-sum-game](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1927-sum-game) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [4024-nearest-available-drone](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/4024-nearest-available-drone) |
 ## Minimax
 |  |
