@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [1927-sum-game](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Trie
 |  |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [4024-nearest-available-drone](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/4024-nearest-available-drone) |
 ## Minimax
@@ -205,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1872-stone-game-viii) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
