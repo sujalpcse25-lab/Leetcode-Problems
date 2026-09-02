@@ -1,67 +1,95 @@
 class Solution {
 public:
     string lexGreaterPermutation(string s, string target) {
-        int cnt[26] = {0};
+        int freq[26] = {0};
 
         for (char c : s) {
-            cnt[c - 'a']++;
+            freq[c - 'a']++;
         }
 
-        for (int i = s.size() - 1; i >= 0; i--) {
+        string ans = "";
 
-            int temp[26];
+        for (int i = 0; i < target.size(); i++) {
 
-            for (int j = 0; j < 26; j++) {
-                temp[j] = cnt[j];
-            }
+            int x = target[i] - 'a';
 
-            // Use target's prefix
-            bool possible = true;
-
-            for (int j = 0; j < i; j++) {
-                int x = target[j] - 'a';
-
-                if (temp[x] == 0) {
-                    possible = false;
-                    break;
-                }
-
-                temp[x]--;
-            }
-
-            if (!possible) {
+            // Try to keep target[i]
+            if (freq[x] > 0) {
+                ans += target[i];
+                freq[x]--;
                 continue;
             }
 
-            // Find smallest character greater than target[i]
-            int x = target[i] - 'a';
+            // Cannot keep target[i].
+            // Try the smallest character greater than target[i].
+            for (int j = x + 1; j < 26; j++) {
+                if (freq[j] > 0) {
+                    ans += char('a' + j);
+                    freq[j]--;
 
-            for (int c = x + 1; c < 26; c++) {
+                    // Fill remaining positions with smallest characters
+                    for (int k = 0; k < 26; k++) {
+                        while (freq[k] > 0) {
+                            ans += char('a' + k);
+                            freq[k]--;
+                        }
+                    }
 
-                if (temp[c] == 0) {
-                    continue;
+                    return ans;
                 }
+            }
 
-                string ans = "";
+            // Need to backtrack
+            for (int k = i - 1; k >= 0; k--) {
+                freq[ans[k] - 'a']++;
 
-                // Keep prefix same as target
-                for (int j = 0; j < i; j++) {
-                    ans += target[j];
-                }
+                int cur = target[k] - 'a';
 
-                // Make the permutation greater
-                ans += char('a' + c);
-                temp[c]--;
+                for (int j = cur + 1; j < 26; j++) {
+                    if (freq[j] > 0) {
+                        ans[k] = char('a' + j);
+                        freq[j]--;
 
-                // Put remaining characters in smallest order
-                for (int j = 0; j < 26; j++) {
-                    while (temp[j] > 0) {
-                        ans += char('a' + j);
-                        temp[j]--;
+                        ans.resize(k + 1);
+
+                        for (int p = 0; p < 26; p++) {
+                            while (freq[p] > 0) {
+                                ans += char('a' + p);
+                                freq[p]--;
+                            }
+                        }
+
+                        return ans;
                     }
                 }
+            }
 
-                return ans;
+            return "";
+        }
+
+        // s can form exactly target.
+        // We need to make an earlier position larger.
+        for (int k = target.size() - 1; k >= 0; k--) {
+            freq[ans[k] - 'a']++;
+
+            int cur = target[k] - 'a';
+
+            for (int j = cur + 1; j < 26; j++) {
+                if (freq[j] > 0) {
+                    ans[k] = char('a' + j);
+                    freq[j]--;
+
+                    ans.resize(k + 1);
+
+                    for (int p = 0; p < 26; p++) {
+                        while (freq[p] > 0) {
+                            ans += char('a' + p);
+                            freq[p]--;
+                        }
+                    }
+
+                    return ans;
+                }
             }
         }
 
