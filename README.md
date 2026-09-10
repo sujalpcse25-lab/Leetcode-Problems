@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
