@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0164-maximum-gap) |
+| [0835-image-overlap](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1872-stone-game-viii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0037-sudoku-solver) |
+| [0835-image-overlap](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
