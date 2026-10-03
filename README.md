@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [1096-brace-expansion-ii](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
