@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0835-image-overlap](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1563-stone-game-v) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0835-image-overlap](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Breadth-First Search
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Euclidean Algorithm
 |  |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
