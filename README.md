@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0164-maximum-gap) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
