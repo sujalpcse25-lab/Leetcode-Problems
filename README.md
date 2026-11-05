@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0164-maximum-gap) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sujalpcse25-lab/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
